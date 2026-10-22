@@ -265,6 +265,25 @@ This project is **not represented here as a commercially available assessment sy
 
 ---
 
+## Connect with Elite Cybersecurity Specialist
+
+**Yuhisern Navaratnam** — Cybersecurity Engineer  
+**Elite Cybersecurity Specialist** | Malaysia  
+**SSM:** 202403184091 (MA0319303-P)
+
+[<img src="assets/00-ecs-digital-name-card.png" alt="Elite Cybersecurity Specialist digital name card — Yuhisern Navaratnam" width="525">](assets/00-ecs-digital-name-card.png)
+
+**Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)  
+**WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)  
+**GitHub — Penetration Testing:** [Official repository](https://github.com/elite-cybersecurity-specialist/penetration-testing)  
+**GitHub — Battle-Hardened AI:** [Official repository](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai)  
+**GitHub — Other Cybersecurity Projects:** [Elite Cybersecurity Specialist](https://github.com/elite-cybersecurity-specialist)  
+**TikTok:** [@yuhisern](https://www.tiktok.com/@yuhisern)  
+**LinkedIn:** [linkedin.com/in/yuhisern](https://www.linkedin.com/in/yuhisern)  
+**X:** [x.com/yuhisern](https://x.com/yuhisern)
+
+---
+
 <p align="center"><strong>HARDEN. TEST. VERIFY. IMPROVE.</strong></p>
 <p align="center"><em>Identify Weaknesses · Validate Security Controls · Strengthen Your Defences</em></p>
 <p align="center"><sub>ELITE CYBERSECURITY SPECIALIST | Penetration Testing & Security Assessments | October 2026. All services subject to separate written authorization, feasibility, agreed scope and contractual terms. See <a href="NOTICE.md">usage notice</a>.</sub></p>
