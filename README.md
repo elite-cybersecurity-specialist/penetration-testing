@@ -273,8 +273,6 @@ This project is **not represented here as a commercially available assessment sy
 
 [<img src="assets/00-ecs-digital-name-card.png" alt="Elite Cybersecurity Specialist digital name card — Yuhisern Navaratnam" width="525">](assets/00-ecs-digital-name-card.png)
 
-**Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)  
-**WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)  
 **GitHub — Company Profile:** [Official repository](https://github.com/elite-cybersecurity-specialist/company-profile)  
 **GitHub — Penetration Testing:** [Official repository](https://github.com/elite-cybersecurity-specialist/penetration-testing)  
 **GitHub — Battle-Hardened AI:** [Official repository](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai)  
