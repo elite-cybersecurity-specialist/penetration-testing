@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/01-penetration-testing-banner.png" alt="ELITE CYBERSECURITY SPECIALIST — Penetration Testing & Security Assessments: whitebox, graybox, blackbox and specialist assessment coverage" width="100%">
+  <img src="assets/01-penetration-testing-banner.png" alt="ELITE CYBERSECURITY SPECIALIST — RED TEAM Operations &amp; Advanced Penetration Testing: whitebox, graybox, blackbox and specialist assessment coverage" width="100%">
 </p>
 
-<h1 align="center">PENETRATION TESTING & SECURITY ASSESSMENTS</h1>
+<h1 align="center">RED TEAM OPERATIONS &amp; ADVANCED PENETRATION TESTING</h1>
 
 <p align="center"><strong>ELITE CYBERSECURITY SPECIALIST · MALAYSIA</strong></p>
 
@@ -11,7 +11,7 @@
 <p align="center">Business Registration: <strong>202403184091 (MA0319303-P)</strong></p>
 
 <p align="center">
-  <a href="https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile.pdf">Download Company Profile (PDF)</a>
+  <a href="https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile_2026-11.pdf">Download Company Profile (PDF)</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/elite-cybersecurity-specialist/company-profile">View Company Profile Repository</a>
   &nbsp;·&nbsp;
@@ -32,6 +32,7 @@
 ## Contents
 
 - [About Our Penetration-Testing Services](#about-our-penetration-testing-services)
+- [RED TEAM Operations](#red-team-operations)
 - [Who Our Services Are Designed For](#who-our-services-are-designed-for)
 - [Whitebox, Graybox and Blackbox Testing](#whitebox-graybox-and-blackbox-testing)
 - [Our Penetration-Testing Areas](#our-penetration-testing-areas)
@@ -48,7 +49,7 @@
 
 ## About Our Penetration-Testing Services
 
-**ELITE CYBERSECURITY SPECIALIST (ECS)** is a Malaysia-based cybersecurity company founded in 2024. Our company profile describes more than 10 years of cybersecurity experience and a security-engineering practice focused on protecting high-sensitivity systems and the people who depend on them.
+**Elite Cybersecurity Specialist (ECS)** delivers RED TEAM operations and advanced penetration testing for private-sector organisations. Based in Malaysia, ECS works with a discreet network of highly skilled cybersecurity specialists and ethical hackers whose identities remain confidential.
 
 We assess security from an attacker's perspective using **authorized and controlled testing**. Our purpose is to identify weaknesses, validate practical risk, recommend remediation and perform a **final penetration test to verify** whether important weaknesses have been corrected.
 
@@ -58,16 +59,28 @@ Our work considers the security relationship between **devices, user identities,
 
 ---
 
+## RED TEAM Operations
+
+RED TEAM engagements use realistic, authorised adversary simulation to assess how security controls and teams perform against agreed objectives.
+
+- Select threat-informed scenarios and map applicable techniques to MITRE ATT&CK.
+- Assess attack paths across approved systems and validate preventive controls.
+- Evaluate detection, escalation and response against the agreed exercise objectives.
+- Report evidence, control gaps and practical improvements for remediation and follow-up verification.
+
+Every exercise takes place within a written, authorised scope and agreed rules of engagement.
+
+---
+
 ## Who Our Services Are Designed For
 
 <p align="center"><img src="assets/07-sensitive-client-security.png" alt="Four security-assessment priorities for high-sensitivity customers" width="100%"></p>
 
-Our company profile identifies the following customer groups as potential beneficiaries of security assessment and protection:
+We scope assessments for private-sector organisations and professionals, including the following:
 
 | Customer profile | Assessment priorities |
 |---|---|
 | **Executives, VIPs and High-Profile Individuals** | Sensitive devices, privileged accounts, private communications, exposed services and personal operational security. |
-| **Ministers, Public Officials and Sensitive Professional Teams** | Authorized systems, restricted administration, communication security and the boundaries between sensitive environments. |
 | **Private Banks and Financial Organizations** | Financial portals, administrative systems, access control, exposed infrastructure and business-critical services. |
 | **Family Offices and Private Wealth Organizations** | Confidential financial administration, communications, cloud accounts and private infrastructure. |
 | **Investigative Journalists and Source-Protection Teams** | Access controls, communication exposure, endpoint risks and identity compartmentalization. |
@@ -114,7 +127,7 @@ An engagement may use one approach or a carefully defined combination. Testing d
 | **Phishing Simulation** | Controlled awareness, reporting and organizational response exercises. |
 | **Physical Security Testing** | Separately authorized testing of physical safeguards protecting systems or facilities. |
 
-**Cross-cutting work:** vulnerability validation, risk prioritization, remediation guidance and **final re-testing** are used where included in the engagement scope.
+**Cross-cutting work:** vulnerability discovery and validation, privilege escalation assessment, risk classification, remediation guidance and **final re-testing** are used where included in the engagement scope.
 
 [Explore our complete service catalog →](docs/SERVICE_CATALOG.md)
 
@@ -257,7 +270,7 @@ This project is **not represented here as a commercially available assessment sy
 | **Founder / Contact** | Yuhisern Navaratnam |
 | **Email** | [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com) |
 | **WhatsApp** | [+60 17-279 1717](https://wa.me/60172791717) |
-| **Company Profile (PDF)** | [Download the full company profile](https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile.pdf) |
+| **Company Profile (PDF)** | [Download the full company profile](https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile_2026-11.pdf) |
 | **Company Profile Repository** | [elite-cybersecurity-specialist/company-profile](https://github.com/elite-cybersecurity-specialist/company-profile) |
 | **All Cybersecurity Subjects** | [GitHub — ELITE CYBERSECURITY SPECIALIST](https://github.com/elite-cybersecurity-specialist) |
 
@@ -287,4 +300,4 @@ This project is **not represented here as a commercially available assessment sy
 
 <p align="center"><strong>HARDEN. TEST. VERIFY. IMPROVE.</strong></p>
 <p align="center"><em>Identify Weaknesses · Validate Security Controls · Strengthen Your Defences</em></p>
-<p align="center"><sub>ELITE CYBERSECURITY SPECIALIST | Penetration Testing & Security Assessments | October 2026. All services subject to separate written authorization, feasibility, agreed scope and contractual terms. See <a href="NOTICE.md">usage notice</a>.</sub></p>
+<p align="center"><sub>ELITE CYBERSECURITY SPECIALIST | RED TEAM Operations &amp; Advanced Penetration Testing | November 2026. All services subject to separate written authorization, feasibility, agreed scope and contractual terms. See <a href="NOTICE.md">usage notice</a>.</sub></p>
